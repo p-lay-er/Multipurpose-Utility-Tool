@@ -7,4 +7,3 @@
 ### 3.) A visual representation of resource allocation graph <br />
 ### 4.) Detection of dinning philosophers problem
 <br />
-----
